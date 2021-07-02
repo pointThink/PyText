@@ -1,2 +1,5 @@
 # PyText
-A simple text editor for python files
+
+<img src="img/Zrzut ekranu (49).png" alt="screenshot">
+
+A simple text editor with syntax highlighting written in python 3.9
